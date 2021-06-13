@@ -1,0 +1,13 @@
+.display-wrapper{
+	z-index: 99;
+}
+
+.display-card{
+	background-color: #FAFF70;
+	color: #6D213C;
+}
+
+.display-text{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 3vmax;
+}
